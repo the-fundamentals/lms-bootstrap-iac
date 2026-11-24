@@ -1,0 +1,6 @@
+[tools]
+betterleaks = "1.10.1"
+lefthook = "latest"
+
+[hooks]
+postinstall = "lefthook install"
